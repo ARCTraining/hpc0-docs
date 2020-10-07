@@ -1,6 +1,6 @@
-# A template jupyter book documentation repository
+# HPC0 Documentation repository
 
-This is a template repository that can be used when generating documentation using [Jupyter-books](https://github.com/executablebooks/jupyter-book) and hosting the site via GitHub pages.
+Welcome to the HPC0 course documentation repository. You can find this site hosted via GitHub pages [here](https://arctraining.github.io/hpc0-docs/).
 
 ## Working with this project locally
 
